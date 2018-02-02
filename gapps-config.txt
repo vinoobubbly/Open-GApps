@@ -1,0 +1,77 @@
+Include
+
+# Pico+
+DialerFramework        # Install Dialer Framework
+CalSync                # Install Google Calendar Sync (except if Google Calendar is being installed)
+GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
+PackageInstallerGoogle # Install Google Package Installer
+
+# Nano+
+BatteryUsage           # Install Device Health Services (7.1+)
+FaceDetect             # Install Face Detect library for photo apps
+FaceUnlock             # Install FaceUnlock
+Search                 # Install Google Search (excluding excludes GoogleNow and PixelLauncher)
+Speech                 # Install Offline Speech Files
+
+# Micro+
+Gmail                  # Install Gmail
+CalendarGoogle         # Install Google Calendar
+ExchangeGoogle         # Install Google Exchange Services
+# GoogleNow              # Install Google Now Launcher (requires Search)
+# GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
+
+# Mini+
+CalculatorGoogle       # Install Google Calculator
+ClockGoogle            # Install Google Clock
+# Maps                   # Install Google Maps
+Messenger              # Install Android Messages (except on tablet devices)
+TagGoogle              # Install Google NFC Tags
+Photos                 # Install Google Photos
+# GooglePlus             # Install Google+
+# YouTube                # Install YouTube
+
+# Full+
+Chrome                 # Install Google Chrome Browser
+CloudPrint             # Install Google Cloud Print
+# Docs                   # Install Google Docs
+# Drive                  # Install Google Drive
+# Fitness                # Install Google Fit
+# Keep                   # Install Google Keep
+NewsWidget             # Install Google News & Weather
+# Books                  # Install Google Play Books
+# PlayGames              # Install Google Play Games
+# Movies                 # Install Google Play Movies & TV
+# Music                  # Install Google Play Music
+# NewsStand              # Install Google Play Newsstand
+# Sheets                 # Install Google Sheets
+# Slides                 # Install Google Slides
+Talkback               # Install Google TalkBack
+
+# Stock+
+CameraGoogle           # Install Google Camera
+ContactsGoogle         # Install Google Contacts
+DialerGoogle           # Install Google Dialer
+# Duo                    # Install Google Duo
+# Hangouts               # Install Hangouts
+KeyboardGoogle         # Install Google Keyboard
+PixelIcons             # Install Google Pixel Icons
+StorageManagerGoogle   # Install Google Storage Manager
+VRService              # Install Google VR Services
+WebViewGoogle          # Install Google Webview
+PixelLauncher          # Install Pixel Launcher (requires Search and Wallpapers)
+PrintServiceGoogle     # Install Print Service Recommendation Service
+Wallpapers             # Install Wallpapers
+
+# Super+
+# AndroidPay             # Install Android Pay
+DMAgent                # Install Google Apps Device Policy
+GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
+# Earth                  # Install Google Earth
+# Indic                  # Install Google Indic Keyboard
+# Japanese               # Install Google Japanese Input
+# Korean                 # Install Google Korean Input
+# Pinyin                 # Install Google Pinyin Input
+# Street                 # Install Google Street View
+# Translate              # Install Google Translate
+# Zhuyin                 # Install Google Zhuyin Input
+# ProjectFi              # Install Project Fi by Google
